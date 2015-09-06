@@ -1,0 +1,25 @@
+{
+  "name": "speex",
+  "version": "0.1.0",
+  "summary": "A short description of speex.",
+  "description": "",
+  "homepage": "https://github.com/guange2015/speex",
+  "license": "MIT",
+  "authors": {
+    "guange": "8863824@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/guange2015/speex.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "speex": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

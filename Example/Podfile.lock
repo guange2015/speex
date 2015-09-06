@@ -1,0 +1,14 @@
+PODS:
+  - speex (0.1.0)
+
+DEPENDENCIES:
+  - speex (from `../`)
+
+EXTERNAL SOURCES:
+  speex:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  speex: 269a34dab816815d03446dc0e57418a6a6f42994
+
+COCOAPODS: 0.37.2
