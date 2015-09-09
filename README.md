@@ -17,7 +17,7 @@ speex is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "speex"
+pod 'speex', :git => 'https://github.com/guange2015/speex.git'
 ```
 
 ## Author
